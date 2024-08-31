@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/utsavg/Documents/Azuga_projects/Tutorials/temp_dvc_data
